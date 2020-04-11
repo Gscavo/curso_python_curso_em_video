@@ -1,0 +1,7 @@
+print('')
+print('')
+city = str(input('Digite aqui o nome de uma cidade: ')).strip()
+list = (city.upper()).split(' ')
+print('A cidade começa com Santo? ')
+print('SANTO'in list[0])
+print('*True= Possui\n*False= Não Possui')

@@ -1,0 +1,6 @@
+print('\033[0;30;41mOlá guys\033[m')
+print('\033[4;33;44mEu to muito loko\033[m')
+print('\033[1;35;43mMó brisa essas cor\033[m')
+print('\033[0;30;42mEsquimó na neve\033[m')
+print('\033[mYeti de gelo\033[m')
+print('\033[7;30mSó voa cabelo\033[m')

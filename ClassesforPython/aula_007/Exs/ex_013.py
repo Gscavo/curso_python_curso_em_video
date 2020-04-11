@@ -1,0 +1,7 @@
+print('')
+print('')
+price = float(input('Digite aqui o seu salário: R$ '))
+print('')
+off = int(input('Digite aqui a porcentagem em que ele aumentou: '))
+print('')
+print('O seu novo salário será de R${:.2f}'.format(price+(price*(off/100))))

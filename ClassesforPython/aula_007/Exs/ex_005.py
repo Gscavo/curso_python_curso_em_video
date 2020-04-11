@@ -1,0 +1,5 @@
+print('')
+print('')
+n1 = int(input('Digite aqui um número -> '))
+print('')
+print('Sendo {} o número escolhido seu antecessor é {} e o sucessor é {}'.format(n1, n1-1, n1+1))

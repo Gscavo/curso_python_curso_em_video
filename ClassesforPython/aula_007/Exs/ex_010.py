@@ -1,0 +1,7 @@
+print('')
+print('{:_^80}'.format(''))
+print('{:_^80}'.format('Conversor de Real para Dolár'))
+print('')
+cash = float(input('Qual a quantia em reais que você deseja converter em doláres: '))
+print('')
+print('A quantia de R${:.2f} é equivalente a U${:.2f}'.format(cash, cash/3.27))

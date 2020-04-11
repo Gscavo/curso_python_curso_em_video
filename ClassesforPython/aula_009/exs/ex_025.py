@@ -1,0 +1,7 @@
+print('')
+print('')
+name = str(input('Digite aqui seu nome completo: ')).strip()
+n = ('SILVA' in name.upper())
+print('Seu nome possui Silva?')
+print(n)
+print('*True= Possui--------*False= Não Possui')

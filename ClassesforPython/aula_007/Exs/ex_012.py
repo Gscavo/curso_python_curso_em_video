@@ -1,0 +1,7 @@
+print('')
+print('')
+price = float(input('Digite aqui o preço do produto:R$ '))
+print('')
+off = int(input('Digite aqui o desconto: '))
+print('')
+print('O novo preço desse produto será de R${:.2f}'.format(price-(price*(off/100))))

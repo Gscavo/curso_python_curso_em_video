@@ -1,0 +1,5 @@
+print('')
+print('')
+nu = int(input('Por favor, digite um número: '))
+print('')
+print('O número escolhido foi {}.\nSeu dobro é {};\nSeu triplo é {};\nE sua raiz quadrada é {:.2f}'.format(nu, nu*2, nu*3, nu**(1/2)))
